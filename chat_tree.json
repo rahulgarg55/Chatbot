@@ -5,8 +5,8 @@
       "child_msg" : ["Funny Joke","Very funny Joke","Pro Joke :)","Terminate chat"],
       "children" : [
         {
-          "message" : "getJoke()",
-          "type" : "function"
+          "message" : "I tried to escape the Apple store. I couldn't because there were no Windows.",
+          "type" : "normal"
         },
         {
           "message" : "Internet Explorer,The best browser for downloading another browser",
