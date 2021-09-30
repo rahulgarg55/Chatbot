@@ -5,7 +5,15 @@
       "child_msg" : ["Funny Joke","Very funny Joke","PJ :)","Terminate chat"],
       "children" : [
         {
-          "message" : "hey how t rre",
+          "message" : "USER: I can't get on the Internet.
+
+SUPPORT: Are you sure you used the right password?
+
+USER: Yes, I'm sure. I saw my colleague do it.
+
+SUPPORT: Can you tell me what the password was?
+
+USER: Five dots.",
           "type" : "normal"
         },
         {
