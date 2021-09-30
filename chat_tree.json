@@ -2,7 +2,7 @@
   "child_msg" : ["Want to hear a joke ?","What about some news ?","Wanna get motivated ?","Terminate chat"],
   "children" : [
     {
-      "child_msg" : ["Funny Joke","Very funny Joke","PJ :)","Terminate chat"],
+      "child_msg" : ["Funny Joke","Very funny Joke","Pro Joke :)","Terminate chat"],
       "children" : [
         {
           "message" : "getJoke()",
