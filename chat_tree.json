@@ -5,15 +5,15 @@
       "child_msg" : ["Funny Joke","Very funny Joke","PJ :)","Terminate chat"],
       "children" : [
         {
-          "message" : "Internet Explorer,The best browser for downloading another browser.",
+          "message" : "getJoke()",
+          "type" : "function"
+        },
+        {
+          "message" : "Santa Banta Ha Ha Ha",
           "type" : "normal"
         },
         {
-          "message" : "I sing like a bee, I hum. Works every time since I forgot the lyrics.",
-          "type" : "normal"
-        },
-        {
-          "message" : "A girl in a restaurant asked me “Are you single?”. I happily replied “Yes”. She took away the extra chair in front of me.",
+          "message" : "Banta Santa",
           "type" : "normal"
         }
       ]
