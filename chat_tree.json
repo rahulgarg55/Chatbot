@@ -5,8 +5,8 @@
       "child_msg" : ["Funny Joke","Very funny Joke","PJ :)","Terminate chat"],
       "children" : [
         {
-          "message" : "getJoke()",
-          "type" : "function"
+          "message" : "hey how t rre",
+          "type" : "normal"
         },
         {
           "message" : "I sing like a bee, I hum. Works every time since I forgot the lyrics.",
