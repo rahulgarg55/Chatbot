@@ -22,15 +22,15 @@
       "child_msg" : ["Local News","National News","World News","Terminate chat"],
       "children" : [
         {
-          "message" : "getNews()",
-          "type" : "function"
-        },
-        {
           "message" : "India is the best",
           "type" : "normal"
         },
         {
-          "message" : "India becomes a super power",
+          "message" : "160 billion emails are sent daily, 97% of which are spam.",
+          "type" : "normal"
+        },
+        {
+          "message" : "'Google' is most searched word on Bing, Google says",
           "type" : "normal"
         }
       ]
